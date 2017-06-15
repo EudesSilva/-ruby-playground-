@@ -1,2 +1,2 @@
-# ruby-playground
+# 💎💎💎 ruby-playground 💎💎💎
 hobby development in ruby ;)
